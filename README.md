@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/ariemeir/ariemeir/main/arie.jpg" width="170" align="right" alt="Arie Meir">
+
 <h1>Hi, I'm Arie 👋</h1>
 
 I build systems that cross from software into the physical world, and I publish the
