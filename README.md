@@ -3,10 +3,9 @@
 I love solving problems I discover in my own life and work. 
 The solutions often involve apps and AI agents.
 </br>
-Sometimes hardware like PCBs and mechanical parts become part of it. 
-
+Sometimes hardware like PCBs and mechanical parts are involved.
+</br>
 I love sharing my work as inspiration for others. 
-
 
 <h2>About me </h2>
 Since 2026 I run an independent <a href="https://ariemeir.com">consulting practice</a> helping Founders and CEOs solve mission-critical problems using technology.
