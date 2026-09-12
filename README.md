@@ -10,8 +10,6 @@ I like sharing my work to connect with fellow builders and serve as inspiration 
 <h2>About me </h2>
 Since 2026 I run an independent <a href="https://ariemeir.com">consulting practice</a> helping Founders and CEOs solve mission-critical problems using technology.</br>
 
-Before that I spent 11 years in Google as an engineer and Senior Product Manager.
+Before that I spent <a href="https://linkedin.com/in/ariemeir">11 years in Google </a> as an Engineer and a Product Manager.
 
-If you are building something at the boundary between hardware and software, say hello.
-
-<a href="https://linkedin.com/in/ariemeir">Get in touch via Linkedin profile</a>
+If you are building something at the boundary between hardware and software, say <a href="mailto:arie@ariemeir.com">hello</a>.
