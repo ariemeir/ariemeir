@@ -5,7 +5,7 @@ The solutions often involve building apps and developing AI agents.
 </br>
 Sometimes hardware like PCBs and mechanical parts are involved.
 </br>
-I love sharing my work as inspiration for others. 
+I like sharing my work to connect with fellow professionals and serve as inspiration for others. 
 
 <h2>About me </h2>
 Since 2026 I run an independent <a href="https://ariemeir.com">consulting practice</a> helping Founders and CEOs solve mission-critical problems using technology.
