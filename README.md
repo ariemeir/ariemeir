@@ -13,5 +13,4 @@ Before that I spent 11 years in Google as an engineer and Senior Product Manager
 
 If you are building something at the boundary between hardware and software, say hello.
 
-Arie
-<a href="https://linkedin.com/in/ariemeir">Linkedin</a>
+<a href="https://linkedin.com/in/ariemeir">Get in touch via Linkedin profile</a>
