@@ -2,6 +2,7 @@
 
 I love solving problems I discover in my own life and work. 
 The solutions often involve apps and AI agents.
+</br>
 Sometimes hardware like PCBs and mechanical parts become part of it. 
 
 I love sharing my work as inspiration for others. 
