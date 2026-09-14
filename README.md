@@ -1,6 +1,6 @@
 <h2>Hi, I'm Arie Meir</h2>
 
-I love solving problems I discover in my own life and work. 
+As an engineer who worked as a PM most of my career, I love solving problems I discover in my own life and work. 
 The solutions often involve building apps and developing AI agents. </br>
 
 Sometimes hardware like PCBs and mechanical parts are involved. </br>
